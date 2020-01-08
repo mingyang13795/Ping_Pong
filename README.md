@@ -4,4 +4,4 @@
 1.專案管理PPT
 2.pingpong專案
 
-機器訓練最終檔案為
+機器訓練最終檔案為ml_play_templateKnn_1P_v2.py與ml_play_templateKnn_2P_v2.py
